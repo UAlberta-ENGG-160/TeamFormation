@@ -64,7 +64,7 @@ Now we need to open the class list with gender and copy the gender column to the
 
 *NOTE* We can check that the two spreadsheets are consistent by sorting them both for "Sex". Between the two spreadsheets there should be the same number of females and the names should match.
 
-### Phase 2 - Checking the Master Spreadsheet for groups with 1 females
+### Phase 2 - Checking the Master Spreadsheet for groups with 1 female
 
 In this phase we use a Python program to flag the groups with 1 female teammate. We will note that information and use it to swap teammates to correct the problem so that no team has fewer than 2 women.
 
